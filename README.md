@@ -12,7 +12,7 @@ This is a mini-project showcasing a responsive product card design using **HTML*
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## Colors Used
 - Background: `#d9d9d9`
@@ -20,11 +20,3 @@ This is a mini-project showcasing a responsive product card design using **HTML*
 - Secondary: `#8223cf`
 - Accent: `#f0c94a`
 
-## Preview
-![Project Screenshot](https://via.placeholder.com/800x400)  
-_Add a screenshot of your project here._
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/responsive-product-card.git
